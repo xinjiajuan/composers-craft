@@ -1,0 +1,4 @@
+interface:
+  display_name: "The Composer's Craft"
+  short_description: "设计角色主题、和声连接、配器与互动游戏音乐，提供可演奏方案和练习"
+  default_prompt: "请用 $composers-craft，根据我的情绪或角色设定设计主题、和声与编曲方案，说明选择理由，并给出可试听验证的练习。"
